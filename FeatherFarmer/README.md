@@ -1,4 +1,4 @@
-### MemoryError Lua Scripts
+### Feather Farmer
 
 I made this script as my first script that involved fighting. Here is what it will do:
 - Kill Chickens  
