@@ -28,9 +28,9 @@ Each script will have a built with seciton, that will be the place to find any r
 
 ## Scripts
 
-[<h4>Feather Farmer</h4>](https://github.com/MMGIFL/LuaScriptRS3/tree/main/FeatherFarmer)
+<h4><a href="https://github.com/MMGIFL/LuaScriptRS3/tree/main/FeatherFarmer">Feather Farmer</a></h4>
 
-[<h4>Mining - Coming Soon</h4>](https://github.com/MMGIFL/LuaScriptRS3/)
+<h4><a href="https://github.com/MMGIFL/LuaScriptRS3">Mining - Coming Soon</a></h4>
 
 <!-- CONTRIBUTING -->
 ## Contributing
