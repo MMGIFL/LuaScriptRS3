@@ -30,6 +30,8 @@ Each script will have a built with seciton, that will be the place to find any r
 
 <h4><a href="https://github.com/MMGIFL/LuaScriptRS3/tree/main/FeatherFarmer">Feather Farmer</a></h4>
 
+<h4><a href="https://github.com/MMGIFL/LuaScriptRS3/tree/main/ManureTurner">Manure Turner</a></h4>
+
 <h4><a href="https://github.com/MMGIFL/LuaScriptRS3">Mining - Coming Soon</a></h4>
 
 <!-- CONTRIBUTING -->
